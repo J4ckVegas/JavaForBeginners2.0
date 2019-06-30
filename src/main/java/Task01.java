@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Task01 {
     public static void main(String[] args) {
-        /** Метод сложения двух дробных чисел
+        /** Метод выполняющий арифметические действия с двумя числами
          * @author Volokhov-YUV */
 
         Scanner scanner = new Scanner(System.in);
